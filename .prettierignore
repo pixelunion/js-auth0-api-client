@@ -1,0 +1,7 @@
+api/build/*
+api/coverage/*
+api/src/api/api-page-actions.js
+api/src/api/api-settings.js
+api/src/api/api-shopify.js
+
+storefront/src/special-offers.js
